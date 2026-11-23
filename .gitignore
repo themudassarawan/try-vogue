@@ -1,0 +1,18 @@
+# Python & Backend
+backend/venv/
+__pycache__/
+*.py[cod]
+.env
+backend/storage/temp_sessions/*
+!backend/storage/temp_sessions/.gitkeep
+
+# Next.js & Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+.env.local
+
+# OS & VS Code
+.DS_Store
+Thumbs.db
+.vscode/
